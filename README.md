@@ -1,4 +1,4 @@
-##Machine Learning Projects  
+# Machine Learning Projects  
 This repository contains a collection of machine learning implementations and experiments, developed as part of academic and practical projects. It covers a range of approaches including:
 
 - Genetic Programming for optimization and model generation  
